@@ -1,0 +1,11 @@
+,model,top1,top1_err,top5,top5_err,param_count,img_size,crop_pct,interpolation
+11,swinv2_base_window12to24_192to384_22kft1k,87.108,12.892,98.236,1.764,87.92,384,1.0,bicubic
+18,tf_efficientnet_b7_ns,86.832,13.168,98.096,1.904,66.35,600,0.949,bicubic
+19,beit_base_patch16_384,86.798,13.202,98.136,1.864,86.74,384,1.0,bicubic
+23,convnext_base_384_in22ft1k,86.542,13.458,98.19,1.81,88.59,384,1.0,bicubic
+24,volo_d3_448,86.496,13.504,97.71,2.29,86.63,448,1.0,bicubic
+26,tf_efficientnet_b6_ns,86.45,13.55,97.886,2.114,43.04,528,0.942,bicubic
+27,swin_base_patch4_window12_384,86.432,13.568,98.056,1.944,87.9,384,1.0,bicubic
+31,swinv2_base_window12to16_192to256_22kft1k,86.27,13.73,97.896,2.104,87.92,256,0.9,bicubic
+34,tf_efficientnet_b5_ns,86.088,13.912,97.752,2.248,30.39,456,0.934,bicubic
+37,volo_d2_384,86.036,13.964,97.574,2.426,58.87,384,1.0,bicubic
